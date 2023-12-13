@@ -1,0 +1,15 @@
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\bin\Debug\Test6Robot.dll
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\bin\Debug\Test6Robot.pdb
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\bin\Debug\Robot.Common.dll
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\obj\Debug\Test6Robot.csproj.AssemblyReference.cache
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\obj\Debug\Test6Robot.csproj.CoreCompileInputs.cache
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\obj\Debug\Test6Robot.csproj.CopyComplete
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\obj\Debug\Test6Robot.dll
+E:\study\5sem\KPZ\Lab1_1\TestsRobots\Test6Robot\Test6Robot\obj\Debug\Test6Robot.pdb
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\bin\Debug\Test6Robot.dll
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\bin\Debug\Test6Robot.pdb
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.csproj.CopyComplete
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.dll
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.pdb

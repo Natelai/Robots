@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\bin\Debug\Test6Robot.dll
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\bin\Debug\Test6Robot.pdb
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\ChaikovskyiAlgorithm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\ChaikovskyiAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\ChaikovskyiAlgorithm.csproj.CopyComplete
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.dll
+C:\Users\User\source\repos\Test6Robot\Test6Robot\Test6Robot\obj\Debug\Test6Robot.pdb
